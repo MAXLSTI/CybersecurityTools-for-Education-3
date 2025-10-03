@@ -285,4 +285,5 @@ Herramienta educativa de ciberseguridad
 Uso educativo y personal
 
 ## Disclaimer
-Esta herramienta proporciona estimaciones educativas. La seguridad real depende de múltiples factores incluyendo el método de ataque, recursos del atacante, y medidas de protección del servicio objetivo. Siempre usa autenticación de dos factores (2FA) cuando esté disponible.
+
+Esta herramienta proporciona estimaciones educativas. La seguridad real depende de múltiples factores incluyendo el método de ataque, recursos del atacante, y medidas de protección del servicio objetivo. Siempre usa autenticación de dos factores (2FA) cuando esté disponible. El autor no se hace responsable del uso indebido que se le pudieran dar a dichos programas.
